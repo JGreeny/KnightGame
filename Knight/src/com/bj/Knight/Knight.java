@@ -14,7 +14,7 @@ public class Knight implements ApplicationListener {
 	private OrthographicCamera camera;
 	private SpriteBatch batch;
 	private Texture texture;
-	private Sprite sprite2;
+	private Sprite sprite3;
 	
 	@Override
 	public void create() {		
