@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Knight-android/src"/>
+	<classpathentry kind="src" path="Knight-desktop/src"/>
+	<classpathentry kind="src" path="Knight/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse/libgdx/gdx.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse/libgdx/gdx-backend-android.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse/libgdx/gdx-backend-gwt.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse/libgdx/gdx-backend-lwjgl.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse/libgdx/gdx-backend-lwjgl-natives.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse/libgdx/gdx-natives.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse/libgdx/gdx-openal.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse/libgdx/gdx-setup-ui.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse/libgdx/libgdx-0.9.8.zip"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse/libgdx/tween-engine-api-6.3.3.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
